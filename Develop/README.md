@@ -1,16 +1,17 @@
-# undefined
- the app allows developer to create a README.md file
+# README.md generator
+the app allows developer to create a README.md file
 ## Table of Contents
-[Installation](# Installation)
-[Usage](# Usage)
-[Contributing](# contributing)
+[Installation](#Installation)
+[Usage](#Usage)
+[Contributing](#contributing)
 [Test](#test)
-[Title](# Title)
-# Installation
-undefined
+[Title](#Title)
+# installation
+fs and inquire
+
 #Usage
-To use application, undefined
+To use application, the app is ran in the terminal
 #Contributing 
-Contributors: N/A
-# Tests
-How to test the application: undefined
+Contributors N/A
+#Tests
+How to test the application: Test the app in the terminal

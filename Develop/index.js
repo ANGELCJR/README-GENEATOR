@@ -24,7 +24,7 @@ const questions = [{
         message: "Installation",
     },{
         type: "input",
-        name: "usage",
+        name: "Usage",
         message: "what usage does this app play in?",
     },{
         type: "input",
@@ -36,7 +36,7 @@ const questions = [{
         message: "Who worked on this project?",
     },{
         type: "input",
-        name: "Test",
+        name: "Tests",
         message: "how do you test your application?",
     },{
         type: "input",
