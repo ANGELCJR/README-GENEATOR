@@ -21,6 +21,7 @@ ${data.Description}
 * [Contributing](#Contributing)
 * [Test](#Tests)
 * [Title](#Title)
+* [Questions](#Questions)
 # Installation                
 These must be installed to run the application: ${data.Installation}
 # Usage             
@@ -29,6 +30,8 @@ To use this app,${data.Usage}
 Contributors: ${data.Contributing}
 # Tests
 How to test the application: ${data.Tests}
+# Questions
+Any questions or concern about the repository contact ${data.Github} at ${data.Email}
 `;
 }
 
