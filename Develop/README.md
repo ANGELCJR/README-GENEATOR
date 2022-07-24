@@ -1,17 +1,16 @@
-# README.md generator
-the app allows developer to create a README.md file
+# README-GENERATOR
+App allows developer create a README file 
 ## Table of Contents
-[Installation](#Installation)
-[Usage](#Usage)
-[Contributing](#contributing)
-[Test](#test)
-[Title](#Title)
-# installation
-fs and inquire
-
-#Usage
-To use application, the app is ran in the terminal
-#Contributing 
-Contributors N/A
-#Tests
-How to test the application: Test the app in the terminal
+* [Installation](#Installation)
+* [Usage](#Usage)
+* [Contributing](#Contributing)
+* [Test](#Tests)
+* [Title](#Title)
+# Installation                
+These must be installed to run the application: 
+# Usage             
+To use this app,The app's play is in terminal 
+# Contributing 
+Contributors: N/A
+# Tests
+How to test the application: in the terminal

@@ -20,7 +20,7 @@ const questions = [{
         message: "Table of contents",
     },{
         type: "input",
-        name: "installation",
+        name: "Installation",
         message: "Installation",
     },{
         type: "input",

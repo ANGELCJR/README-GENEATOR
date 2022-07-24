@@ -16,18 +16,18 @@ function generateMarkdown(data) {
   return `# ${data.Title}
 ${data.Description}
 ## Table of Contents
-[Installation](#Installation)
-[Usage](#Usage)
-[Contributing](#contributing)
-[Test](#Tests)
-[Title](#Title)
-#installation
-${data.installation}
-#Usage
-To use application, ${data.Usage}
-#Contributing 
-Contributors ${data.Contributing}
-#Tests
+* [Installation](#Installation)
+* [Usage](#Usage)
+* [Contributing](#Contributing)
+* [Test](#Tests)
+* [Title](#Title)
+# Installation                
+These must be installed to run the application: ${data.Installation}
+# Usage             
+To use this app,${data.Usage} 
+# Contributing 
+Contributors: ${data.Contributing}
+# Tests
 How to test the application: ${data.Tests}
 `;
 }
