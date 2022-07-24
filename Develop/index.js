@@ -71,14 +71,11 @@ function writeToFile(fileName, data) {
 
 // function to initialize program
 function init() {
-    inquirer.prompt(questions)
-        .then(function(data) {
-            writeToFile("README.md", generatorMarkdown(data));
-            console.log(data)
-
-        })
-
-}
+    inquirer.prompt(questions).then(inquirerResponses => {
+      console.log('Generating README...');
+      writeToFile('README.md', generateMarkdown({ ...inquirerResponses }));
+    });
+  }
 
 // function call to initialize program
 init();
