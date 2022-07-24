@@ -15,11 +15,11 @@ function generateMarkdown(data) {
   return `# ${data.title}
 ${data.Description}
 ## Table of Contents
-[Installation](#Installation)
-[Usage](#Usage)
-[Contributing](#contributing)
+[Installation](# Installation)
+[Usage](# Usage)
+[Contributing](# contributing)
 [Test](#test)
-[Title](#Title)
+[Title](# Title)
 # Installation
 ${data.Installation}
 #Usage

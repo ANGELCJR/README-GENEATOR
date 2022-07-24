@@ -1,11 +1,11 @@
-# README.MD Generator
-the app allows developers to create a README.md file
+# undefined
+ the app allows developer to create a README.md file
 ## Table of Contents
-[Installation](#Installation)
-[Usage](#Usage)
-[Contributing](#contributing)
+[Installation](# Installation)
+[Usage](# Usage)
+[Contributing](# contributing)
 [Test](#test)
-[Title](#Title)
+[Title](# Title)
 # Installation
 undefined
 #Usage
