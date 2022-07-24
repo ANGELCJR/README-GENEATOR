@@ -19,6 +19,7 @@ ${data.Description}
 [Usage](#Usage)
 [Contributing](#contributing)
 [Test](#test)
+[Title](#Title)
 # Installation
 ${data.Installation}
 #Usage
